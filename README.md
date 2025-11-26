@@ -22,20 +22,7 @@ Make sure you have the following Python libraries installed:
 
 Install them via pip:
 
-```bash
-pip install gym stable-baselines3 numpy matplotlib torch
-
-pip install SB3
-
-pip install gym==0.26.1
-
-pip install stable_baselines3
-
 # Installation & Setup
-``` ok
----bash
----
-
 
 
 
