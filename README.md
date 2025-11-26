@@ -32,6 +32,10 @@ pip install gym==0.26.1
 pip install stable_baselines3
 
 # Installation & Setup
+``` ok
+---bash
+---
+
 
 
 
