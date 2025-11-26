@@ -1,6 +1,6 @@
 # Autonomous-Drone-Navigation-with-reinforcement-learning
 Drone navigation involves the process of controlling the movement and flight path of unmanned aerial vehicles (UAVs), encompassing both hardware and software systems for autonomous or operator-guided maneuvering. Its utility is vast across numerous industries.
-
+---
 # 🚀 Features
 
 # 🧠 Reinforcement Learning with PPO using Stable-Baselines3
@@ -9,6 +9,15 @@ This project demonstrates how to implement and train a reinforcement learning (R
 
 ---
 
+🧠 Algorithms
+This project uses Proximal Policy Optimization (PPO), a policy-gradient method known for its stability and performance in continuous and discrete action spaces.
+---
+📊 Visualization
+Training progress and agent behavior are visualized using Matplotlib. Plots include:
+- Episode rewards over time
+- Agent trajectories in the environment
+- Obstacle avoidance and goal-reaching behavior
+---
 ## 📦 Dependencies
 
 Make sure you have the following Python libraries installed:
@@ -19,10 +28,8 @@ Make sure you have the following Python libraries installed:
 - `matplotlib` — Visualization of training progress, trajectories, and environment states
 - `os`, `random` — File handling and reproducibility
 - `torch` — Backend for neural networks (used internally by SB3)
-
 Install them via pip:
 
-# Installation & Setup
 
 
 
