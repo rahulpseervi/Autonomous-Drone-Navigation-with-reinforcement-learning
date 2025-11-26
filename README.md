@@ -3,6 +3,16 @@ Drone navigation involves the process of controlling the movement and flight pat
 
 # 🚀 Features
 
+# Main Modules / Libraries Used
+• gym (OpenAI Gym) — Environment API (Env, reset, step)
+• stable-baselines3 (SB3) — RL algorithms (PPO) and utilities
+• numpy — numerical arrays and math operations
+• matplotlib — plotting trajectories, obstacles, results
+• os, random — file handling and reproducibility
+• torch (indirectly used by SB3) — backend for neural networks
+
+
 # Installation & Setup
+
 
 
